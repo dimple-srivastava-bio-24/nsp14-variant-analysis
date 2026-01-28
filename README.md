@@ -36,7 +36,7 @@ This project performs a comparative bioinformatics analysis of the SARS-CoV-2 no
 │   ├── delta_extracted.fasta
 │   └── omicron_extracted.fasta
 ├── scripts/
-│   └── nsp14_analysis.py
+│   └── nsp14_variant_analysis.py
 ├── results/
 │   └── nsp14_variant_comparison.csv
 └── README.md
