@@ -30,6 +30,17 @@ This project performs a comparative bioinformatics analysis of the SARS-CoV-2 no
 - Variant-specific and conserved mutations identified in nsp14
 - Delta and Omicron show distinct evolutionary changes
 
+## Repository Structure
+├── data/
+│   ├── wuhan_extracted.fasta
+│   ├── delta_extracted.fasta
+│   └── omicron_extracted.fasta
+├── scripts/
+│   └── nsp14_analysis.py
+├── results/
+│   └── nsp14_variant_comparison.csv
+└── README.md
+
 ## Author
 Dimple Srivastava
 MSc Biotechnology | Bioinformatics
